@@ -1,3 +1,3 @@
 # SIGIL
-# RedTeam SIM Tool for Pentesting 
-Simulated Intel for Global Intrusion Logic
+# Simulated Intel for Global Intrusion Logic
+RedTeam SIM Tool for Pentesting 
