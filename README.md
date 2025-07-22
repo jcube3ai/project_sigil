@@ -1,3 +1,3 @@
 # Project_SIGIL
 SIGIL  
-Simulation tool APT - TTPs
+Simulated Intel for Global Intrusion Logic
