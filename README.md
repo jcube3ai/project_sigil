@@ -1,7 +1,6 @@
-# SIGIL
-RedTeam SIM Tool for Pentesting 
 
-# SIGIL SIM  
+
+# SIGIL   
 **Red Team Simulation Tool for Pentesting**
 
 ---
