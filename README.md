@@ -6,7 +6,7 @@
 ---
 
 ## Overview
-SIGIL (Simulated Intel for Global Intrusion Logic) is a PowerShell–based red‑team simulator designed to emulate realistic adversary behaviors against Windows hosts in a completely lab‑safe environment. Each of the included scripts represents a different threat actor or technique—complete with automatic cleanup options—so you can practice detection, response, and forensic analysis without fear of persistent infections.
+SIGIL (Simulated Intel for Global Intrusion Logic) is a PowerShell–based purple‑team simulator designed to emulate realistic adversary behaviors against Windows hosts in a completely lab‑safe environment. Each of the included scripts represents a different threat actor or technique—complete with automatic cleanup options—so you can practice detection, response, and forensic analysis without fear of persistent infections.
 
 ---
 
