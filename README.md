@@ -1,7 +1,7 @@
 
 
 # SIGIL   
-**Purple Team Simulation Tool for testing detection logic**
+**Purple Team Simulation Tool for Testing Detection Logic**
 
 ---
 
