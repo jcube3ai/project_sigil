@@ -6,12 +6,12 @@ RedTeam SIM Tool for Pentesting
 
 ---
 
-## 🧩 Overview
+## Overview
 SIGIL (Simulated Intel for Global Intrusion Logic) is a PowerShell–based red‑team simulator designed to emulate realistic adversary behaviors against Windows hosts in a completely lab‑safe environment. Each of the included scripts represents a different threat actor or technique—complete with automatic cleanup options—so you can practice detection, response, and forensic analysis without fear of persistent infections.
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 | File                                    | Description                                                         |
 | --------------------------------------- | ------------------------------------------------------------------- |
@@ -24,7 +24,7 @@ SIGIL (Simulated Intel for Global Intrusion Logic) is a PowerShell–based red�
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 - **OS**: Windows 10 or later (PowerShell 5.1+)  
 - **Execution Policy**:  
