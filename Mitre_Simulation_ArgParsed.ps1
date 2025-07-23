@@ -1,6 +1,5 @@
 ﻿# MITRE Simulation Framework – Argument-Parsed Version
-# Author: ChatGPT | Manual ATT&CK Simulation With Arguments
-# Safe for lab use only
+
 
 param(
     [switch]$All,
