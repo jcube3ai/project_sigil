@@ -31,5 +31,6 @@ SIGIL (Simulated Intel for Global Intrusion Logic) is a PowerShellâ€“based redâ€
   Set-ExecutionPolicy Bypass -Scope Process
 
 
-# <img width="623" height="519" alt="image" src="https://github.com/user-attachments/assets/0842b483-2db7-4caa-9900-386c1afadab7" />
+# <img width="487" height="446" alt="image" src="https://github.com/user-attachments/assets/ef23a5be-7830-409f-8f28-68f2a04ce242" />
+
 
