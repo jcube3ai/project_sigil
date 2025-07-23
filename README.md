@@ -1,7 +1,7 @@
 
 
 # SIGIL   
-**Red Team Simulation Tool for Pentesting**
+**Purple Team Simulation Tool for Pentesting**
 
 ---
 
