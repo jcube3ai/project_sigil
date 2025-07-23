@@ -1,7 +1,7 @@
 
 
 # SIGIL   
-**Purple Team Simulation Tool for Pentesting**
+**Purple Team Simulation Tool for testing decection logic**
 
 ---
 
